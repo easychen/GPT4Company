@@ -1,6 +1,6 @@
 # Gpt4Company
 
-[简体中文](README.CN.md)
+Gpt4Company 是一个用来避免三星式泄密的请求转发器，[简体中文说明](README.CN.md)
 
 交流群
 
