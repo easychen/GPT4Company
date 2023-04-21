@@ -2,6 +2,10 @@
 
 [简体中文](README.CN.md)
 
+交流群
+
+![用户群](./group.jpg)
+
 Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Once configured with keywords and an OpenAI key, it can be launched. All software within the company accesses OpenAI through the forwarder's API, which returns a warning message when a keyword is transmitted.
 
 ## Usage Steps
