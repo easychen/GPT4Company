@@ -6,7 +6,7 @@ Gpt4Company 是一个用来避免三星式泄密的请求转发器，[简体中�
 
 ![用户群](./group.jpg)
 
-Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Once configured with keywords and an OpenAI key, it can be launched. All software within the company accesses OpenAI through the forwarder's API, which returns a warning message when a keyword is transmitted.
+Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Once configured with keywords and API endpoint, it can be launched. All software within the company accesses OpenAI through the forwarder's API, which returns a warning message when a keyword is transmitted.
 
 ## Usage Steps
 
